@@ -1,0 +1,7 @@
+langchain
+langchain-ollama
+langchain-milvus
+langchain-chroma
+pandas
+pymilvus
+pyspark
