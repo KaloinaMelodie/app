@@ -21,6 +21,10 @@ class Settings(BaseSettings):
     hive_port: str
     openrouter_baseurl: str
     openrouter_apikey: str
+    gcp_project_id: str
+    google_application_credentials: str
+    gcp_translate_location: str
+    locales_dir: str
 
     model_config = SettingsConfigDict(env_file=dotenv_path)
 

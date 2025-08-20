@@ -26,6 +26,8 @@ pip install pydantic-settings
 pip install transformers
 pip install tiktoken
   léger, rapide, open-source et très proche des tokenizers utilisés par la plupart des LLMs modernes.
+  pip install google-cloud-translate==3.* python-dotenv
+
 
 -- tsy nety
 pip install oraclenosqldb 
