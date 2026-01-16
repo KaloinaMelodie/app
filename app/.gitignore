@@ -37,3 +37,7 @@ instance/
 .git/
 note.md
 assistant-469619-aab59109450f.json
+
+
+.env
+.env.production
