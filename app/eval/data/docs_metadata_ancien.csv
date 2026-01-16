@@ -1,0 +1,81 @@
+doc_id,title,source_type,lang,tags,url_or_path
+DOC_000001,Rapport annuel qualité de l'eau 2021 - Antananarivo,document,fr,qualite_eau;antananarivo;2021;rapport;eau_potable,s3://mgmerl/docs/eau/2021_Antananarivo_rapport_fr.pdf
+DOC_000002,Antananarivo Water Quality Dashboard 2021,console,en,water_quality;antananarivo;2021;dashboard,https://mgmerl.example/console/wq/antananarivo/2021
+DOC_000003,Rapport annuel qualité de l'eau 2021 - Toamasina,document,fr,qualite_eau;toamasina;2021;rapport;eau_potable,s3://mgmerl/docs/eau/2021_Toamasina_rapport_fr.pdf
+DOC_000004,Toamasina Water Quality Dashboard 2021,console,en,water_quality;toamasina;2021;dashboard,https://mgmerl.example/console/wq/toamasina/2021
+DOC_000005,Rapport annuel qualité de l'eau 2021 - Mahajanga,document,fr,qualite_eau;mahajanga;2021;rapport;eau_potable,s3://mgmerl/docs/eau/2021_Mahajanga_rapport_fr.pdf
+DOC_000006,Mahajanga Water Quality Dashboard 2021,console,en,water_quality;mahajanga;2021;dashboard,https://mgmerl.example/console/wq/mahajanga/2021
+DOC_000007,Rapport annuel qualité de l'eau 2021 - Fianarantsoa,document,fr,qualite_eau;fianarantsoa;2021;rapport;eau_potable,s3://mgmerl/docs/eau/2021_Fianarantsoa_rapport_fr.pdf
+DOC_000008,Fianarantsoa Water Quality Dashboard 2021,console,en,water_quality;fianarantsoa;2021;dashboard,https://mgmerl.example/console/wq/fianarantsoa/2021
+DOC_000009,Rapport annuel qualité de l'eau 2021 - Toliara,document,fr,qualite_eau;toliara;2021;rapport;eau_potable,s3://mgmerl/docs/eau/2021_Toliara_rapport_fr.pdf
+DOC_000010,Toliara Water Quality Dashboard 2021,console,en,water_quality;toliara;2021;dashboard,https://mgmerl.example/console/wq/toliara/2021
+DOC_000011,Rapport annuel qualité de l'eau 2021 - Antsirabe,document,fr,qualite_eau;antsirabe;2021;rapport;eau_potable,s3://mgmerl/docs/eau/2021_Antsirabe_rapport_fr.pdf
+DOC_000012,Antsirabe Water Quality Dashboard 2021,console,en,water_quality;antsirabe;2021;dashboard,https://mgmerl.example/console/wq/antsirabe/2021
+DOC_000013,Rapport annuel qualité de l'eau 2022 - Antananarivo,document,fr,qualite_eau;antananarivo;2022;rapport;eau_potable,s3://mgmerl/docs/eau/2022_Antananarivo_rapport_fr.pdf
+DOC_000014,Antananarivo Water Quality Dashboard 2022,console,en,water_quality;antananarivo;2022;dashboard,https://mgmerl.example/console/wq/antananarivo/2022
+DOC_000016,Toamasina Water Quality Dashboard 2022,console,en,water_quality;toamasina;2022;dashboard,https://mgmerl.example/console/wq/toamasina/2022
+DOC_000017,Rapport annuel qualité de l'eau 2022 - Mahajanga,document,fr,qualite_eau;mahajanga;2022;rapport;eau_potable,s3://mgmerl/docs/eau/2022_Mahajanga_rapport_fr.pdf
+DOC_000018,Mahajanga Water Quality Dashboard 2022,console,en,water_quality;mahajanga;2022;dashboard,https://mgmerl.example/console/wq/mahajanga/2022
+DOC_000019,Rapport annuel qualité de l'eau 2022 - Fianarantsoa,document,fr,qualite_eau;fianarantsoa;2022;rapport;eau_potable,s3://mgmerl/docs/eau/2022_Fianarantsoa_rapport_fr.pdf
+DOC_000020,Fianarantsoa Water Quality Dashboard 2022,console,en,water_quality;fianarantsoa;2022;dashboard,https://mgmerl.example/console/wq/fianarantsoa/2022
+DOC_000021,Rapport annuel qualité de l'eau 2022 - Toliara,document,fr,qualite_eau;toliara;2022;rapport;eau_potable,s3://mgmerl/docs/eau/2022_Toliara_rapport_fr.pdf
+DOC_000022,Toliara Water Quality Dashboard 2022,console,en,water_quality;toliara;2022;dashboard,https://mgmerl.example/console/wq/toliara/2022
+DOC_000023,Rapport annuel qualité de l'eau 2022 - Antsirabe,document,fr,qualite_eau;antsirabe;2022;rapport;eau_potable,s3://mgmerl/docs/eau/2022_Antsirabe_rapport_fr.pdf
+DOC_000024,Antsirabe Water Quality Dashboard 2022,console,en,water_quality;antsirabe;2022;dashboard,https://mgmerl.example/console/wq/antsirabe/2022
+DOC_000025,Rapport annuel qualité de l'eau 2023 - Antananarivo,document,fr,qualite_eau;antananarivo;2023;rapport;eau_potable,s3://mgmerl/docs/eau/2023_Antananarivo_rapport_fr.pdf
+DOC_000026,Antananarivo Water Quality Dashboard 2023,console,en,water_quality;antananarivo;2023;dashboard,https://mgmerl.example/console/wq/antananarivo/2023
+DOC_000027,Rapport annuel qualité de l'eau 2023 - Toamasina,document,fr,qualite_eau;toamasina;2023;rapport;eau_potable,s3://mgmerl/docs/eau/2023_Toamasina_rapport_fr.pdf
+DOC_000028,Toamasina Water Quality Dashboard 2023,console,en,water_quality;toamasina;2023;dashboard,https://mgmerl.example/console/wq/toamasina/2023
+DOC_000029,Rapport annuel qualité de l'eau 2023 - Mahajanga,document,fr,qualite_eau;mahajanga;2023;rapport;eau_potable,s3://mgmerl/docs/eau/2023_Mahajanga_rapport_fr.pdf
+DOC_000030,Mahajanga Water Quality Dashboard 2023,console,en,water_quality;mahajanga;2023;dashboard,https://mgmerl.example/console/wq/mahajanga/2023
+DOC_000031,Rapport annuel qualité de l'eau 2023 - Fianarantsoa,document,fr,qualite_eau;fianarantsoa;2023;rapport;eau_potable,s3://mgmerl/docs/eau/2023_Fianarantsoa_rapport_fr.pdf
+DOC_000032,Fianarantsoa Water Quality Dashboard 2023,console,en,water_quality;fianarantsoa;2023;dashboard,https://mgmerl.example/console/wq/fianarantsoa/2023
+DOC_000033,Rapport annuel qualité de l'eau 2023 - Toliara,document,fr,qualite_eau;toliara;2023;rapport;eau_potable,s3://mgmerl/docs/eau/2023_Toliara_rapport_fr.pdf
+DOC_000034,Toliara Water Quality Dashboard 2023,console,en,water_quality;toliara;2023;dashboard,https://mgmerl.example/console/wq/toliara/2023
+DOC_000035,Rapport annuel qualité de l'eau 2023 - Antsirabe,document,fr,qualite_eau;antsirabe;2023;rapport;eau_potable,s3://mgmerl/docs/eau/2023_Antsirabe_rapport_fr.pdf
+DOC_000036,Antsirabe Water Quality Dashboard 2023,console,en,water_quality;antsirabe;2023;dashboard,https://mgmerl.example/console/wq/antsirabe/2023
+DOC_000037,Rapport annuel qualité de l'eau 2024 - Antananarivo,document,fr,qualite_eau;antananarivo;2024;rapport;eau_potable,s3://mgmerl/docs/eau/2024_Antananarivo_rapport_fr.pdf
+DOC_000038,Antananarivo Water Quality Dashboard 2024,console,en,water_quality;antananarivo;2024;dashboard,https://mgmerl.example/console/wq/antananarivo/2024
+DOC_000039,Rapport annuel qualité de l'eau 2024 - Toamasina,document,fr,qualite_eau;toamasina;2024;rapport;eau_potable,s3://mgmerl/docs/eau/2024_Toamasina_rapport_fr.pdf
+DOC_000040,Toamasina Water Quality Dashboard 2024,console,en,water_quality;toamasina;2024;dashboard,https://mgmerl.example/console/wq/toamasina/2024
+DOC_000041,Rapport annuel qualité de l'eau 2024 - Mahajanga,document,fr,qualite_eau;mahajanga;2024;rapport;eau_potable,s3://mgmerl/docs/eau/2024_Mahajanga_rapport_fr.pdf
+DOC_000042,Mahajanga Water Quality Dashboard 2024,console,en,water_quality;mahajanga;2024;dashboard,https://mgmerl.example/console/wq/mahajanga/2024
+DOC_000043,Rapport annuel qualité de l'eau 2024 - Fianarantsoa,document,fr,qualite_eau;fianarantsoa;2024;rapport;eau_potable,s3://mgmerl/docs/eau/2024_Fianarantsoa_rapport_fr.pdf
+DOC_000044,Fianarantsoa Water Quality Dashboard 2024,console,en,water_quality;fianarantsoa;2024;dashboard,https://mgmerl.example/console/wq/fianarantsoa/2024
+DOC_000045,Rapport annuel qualité de l'eau 2024 - Toliara,document,fr,qualite_eau;toliara;2024;rapport;eau_potable,s3://mgmerl/docs/eau/2024_Toliara_rapport_fr.pdf
+DOC_000046,Toliara Water Quality Dashboard 2024,console,en,water_quality;toliara;2024;dashboard,https://mgmerl.example/console/wq/toliara/2024
+DOC_000047,Rapport annuel qualité de l'eau 2024 - Antsirabe,document,fr,qualite_eau;antsirabe;2024;rapport;eau_potable,s3://mgmerl/docs/eau/2024_Antsirabe_rapport_fr.pdf
+DOC_000048,Antsirabe Water Quality Dashboard 2024,console,en,water_quality;antsirabe;2024;dashboard,https://mgmerl.example/console/wq/antsirabe/2024
+DOC_000049,Formulaire couverture en eau potable - Antananarivo,survey,fr,survey;coverage;eau_potable;antananarivo,s3://mgmerl/surveys/fr/Antananarivo_01.json
+DOC_000050,Formulaire couverture en eau potable - Toamasina,survey,fr,survey;coverage;eau_potable;toamasina,s3://mgmerl/surveys/fr/Toamasina_01.json
+DOC_000051,Formulaire couverture en eau potable - Mahajanga,survey,fr,survey;coverage;eau_potable;mahajanga,s3://mgmerl/surveys/fr/Mahajanga_01.json
+DOC_000053,Formulaire couverture en eau potable - Toliara,survey,fr,survey;coverage;eau_potable;toliara,s3://mgmerl/surveys/fr/Toliara_01.json
+DOC_000054,Formulaire couverture en eau potable - Antsirabe,survey,fr,survey;coverage;eau_potable;antsirabe,s3://mgmerl/surveys/fr/Antsirabe_01.json
+DOC_000055,Formulaire couverture en eau potable - Antsiranana,survey,fr,survey;coverage;eau_potable;antsiranana,s3://mgmerl/surveys/fr/Antsiranana_01.json
+DOC_000056,Formulaire couverture en eau potable - Ambatondrazaka,survey,fr,survey;coverage;eau_potable;ambatondrazaka,s3://mgmerl/surveys/fr/Ambatondrazaka_01.json
+DOC_000057,Survey: handwashing facilities coverage - Antananarivo,survey,en,survey;handwashing;coverage;antananarivo,s3://mgmerl/surveys/en/Antananarivo_02.json
+DOC_000058,Survey: handwashing facilities coverage - Toamasina,survey,en,survey;handwashing;coverage;toamasina,s3://mgmerl/surveys/en/Toamasina_02.json
+DOC_000059,Survey: handwashing facilities coverage - Mahajanga,survey,en,survey;handwashing;coverage;mahajanga,s3://mgmerl/surveys/en/Mahajanga_02.json
+DOC_000060,Survey: handwashing facilities coverage - Fianarantsoa,survey,en,survey;handwashing;coverage;fianarantsoa,s3://mgmerl/surveys/en/Fianarantsoa_02.json
+DOC_000062,Survey: handwashing facilities coverage - Antsirabe,survey,en,survey;handwashing;coverage;antsirabe,s3://mgmerl/surveys/en/Antsirabe_02.json
+DOC_000063,Survey: handwashing facilities coverage - Antsiranana,survey,en,survey;handwashing;coverage;antsiranana,s3://mgmerl/surveys/en/Antsiranana_02.json
+DOC_000064,Survey: handwashing facilities coverage - Ambatondrazaka,survey,en,survey;handwashing;coverage;ambatondrazaka,s3://mgmerl/surveys/en/Ambatondrazaka_02.json
+DOC_000065,Taratasy fanadihadiana: fidiovana sy fanasana tanana - Antananarivo,survey,mg,survey;fidiovana;fanasana_tanana;antananarivo,s3://mgmerl/surveys/mg/Antananarivo_03.json
+DOC_000066,Taratasy fanadihadiana: fidiovana sy fanasana tanana - Toamasina,survey,mg,survey;fidiovana;fanasana_tanana;toamasina,s3://mgmerl/surveys/mg/Toamasina_03.json
+DOC_000067,Taratasy fanadihadiana: fidiovana sy fanasana tanana - Mahajanga,survey,mg,survey;fidiovana;fanasana_tanana;mahajanga,s3://mgmerl/surveys/mg/Mahajanga_03.json
+DOC_000068,Taratasy fanadihadiana: fidiovana sy fanasana tanana - Fianarantsoa,survey,mg,survey;fidiovana;fanasana_tanana;fianarantsoa,s3://mgmerl/surveys/mg/Fianarantsoa_03.json
+DOC_000069,Taratasy fanadihadiana: fidiovana sy fanasana tanana - Toliara,survey,mg,survey;fidiovana;fanasana_tanana;toliara,s3://mgmerl/surveys/mg/Toliara_03.json
+DOC_000070,Taratasy fanadihadiana: fidiovana sy fanasana tanana - Antsirabe,survey,mg,survey;fidiovana;fanasana_tanana;antsirabe,s3://mgmerl/surveys/mg/Antsirabe_03.json
+DOC_000071,Taratasy fanadihadiana: fidiovana sy fanasana tanana - Antsiranana,survey,mg,survey;fidiovana;fanasana_tanana;antsiranana,s3://mgmerl/surveys/mg/Antsiranana_03.json
+DOC_000073,Guide SOP prélèvement échantillons eau (2021),document,fr,guide;SOP;prelevement;eau;2021,s3://mgmerl/training/fr/Guide_SOP_prélèvement_échantillons_eau_2021.pdf
+DOC_000074,Guide SOP prélèvement échantillons eau (2022),document,fr,guide;SOP;prelevement;eau;2022,s3://mgmerl/training/fr/Guide_SOP_prélèvement_échantillons_eau_2022.pdf
+DOC_000075,Guide SOP prélèvement échantillons eau (2023),document,fr,guide;SOP;prelevement;eau;2023,s3://mgmerl/training/fr/Guide_SOP_prélèvement_échantillons_eau_2023.pdf
+DOC_000076,Guide SOP prélèvement échantillons eau (2024),document,fr,guide;SOP;prelevement;eau;2024,s3://mgmerl/training/fr/Guide_SOP_prélèvement_échantillons_eau_2024.pdf
+DOC_000077,Training module: chlorination & residual testing (2021),document,en,training;chlorination;residual;2021,s3://mgmerl/training/en/Training_module:_chlorination_&_residual_testing_2021.pdf
+DOC_000078,Training module: chlorination & residual testing (2022),document,en,training;chlorination;residual;2022,s3://mgmerl/training/en/Training_module:_chlorination_&_residual_testing_2022.pdf
+DOC_000079,Training module: chlorination & residual testing (2023),document,en,training;chlorination;residual;2023,s3://mgmerl/training/en/Training_module:_chlorination_&_residual_testing_2023.pdf
+DOC_000080,Training module: chlorination & residual testing (2024),document,en,training;chlorination;residual;2024,s3://mgmerl/training/en/Training_module:_chlorination_&_residual_testing_2024.pdf
+DOC_000081,Torolalana: fitantanana loharanon-drano (2021),document,mg,guide;fitantanana;loharanon_drano;2021,s3://mgmerl/training/mg/Torolalana:_fitantanana_loharanon-drano_2021.pdf
+DOC_000082,Torolalana: fitantanana loharanon-drano (2022),document,mg,guide;fitantanana;loharanon_drano;2022,s3://mgmerl/training/mg/Torolalana:_fitantanana_loharanon-drano_2022.pdf
+DOC_000083,Torolalana: fitantanana loharanon-drano (2023),document,mg,guide;fitantanana;loharanon_drano;2023,s3://mgmerl/training/mg/Torolalana:_fitantanana_loharanon-drano_2023.pdf
+DOC_000084,Torolalana: fitantanana loharanon-drano (2024),document,mg,guide;fitantanana;loharanon_drano;2024,s3://mgmerl/training/mg/Torolalana:_fitantanana_loharanon-drano_2024.pdf

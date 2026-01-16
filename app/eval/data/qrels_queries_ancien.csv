@@ -1,0 +1,22 @@
+query_id,query_text,query_lang,difficulty,relevant_doc_ids,hard_negative_ids,notes
+Q001,Rapport de qualité de l’eau 2021 à Antananarivo,fr,hard,DOC_000001;DOC_000002;DOC_000013,DOC_000060;DOC_000017,FR city-specific report; quality of water in Antananarivo.
+Q002,Rapport de qualité de l’eau 2022 à Toamasina,fr,easy,DOC_000003;DOC_000004;DOC_000016,DOC_000020;DOC_000084,FR city-specific report; quality of water in Toamasina.
+Q003,Rapport de qualité de l’eau 2021 à Mahajanga,fr,hard,DOC_000005;DOC_000006;DOC_000017,DOC_000049;DOC_000033,FR city-specific report; quality of water in Mahajanga.
+Q004,Handwashing facilities coverage in Fianarantsoa,en,hard,DOC_000007;DOC_000008;DOC_000019,DOC_000038;DOC_000021,Cross-lingual ok: FR 'lavage des mains' documents can be relevant.
+Q005,Handwashing facilities coverage in Toliara,en,easy,DOC_000009;DOC_000010;DOC_000021,DOC_000019;DOC_000012,Cross-lingual ok: FR 'lavage des mains' documents can be relevant.
+Q006,Handwashing facilities coverage in Antsirabe,en,medium,DOC_000011;DOC_000012;DOC_000023,DOC_000004;DOC_000055,Cross-lingual ok: FR 'lavage des mains' documents can be relevant.
+Q007,Fanasana tanana sy fidiovana ao Antananarivo,mg,medium,DOC_000001;DOC_000002;DOC_000013,DOC_000068;DOC_000029,MG query; relevant may be FR/EN with sanitation/handwashing topic.
+Q008,Fanasana tanana sy fidiovana ao Antsiranana,mg,medium,DOC_000055;DOC_000063;DOC_000071,DOC_000025;DOC_000002,MG query; relevant may be FR/EN with sanitation/handwashing topic.
+Q009,Fanasana tanana sy fidiovana ao Ambatondrazaka,mg,easy,DOC_000056;DOC_000064;DOC_000065,DOC_000083;DOC_000075,MG query; relevant may be FR/EN with sanitation/handwashing topic.
+Q010,Procédure de prélèvement d’échantillons d’eau (SOP),fr,medium,DOC_000001;DOC_000003;DOC_000005,DOC_000002;DOC_000046,Thematic / training / SOP relevance.
+Q011,Chlorination residual testing protocol,en,hard,DOC_000077;DOC_000078;DOC_000079,DOC_000032;DOC_000068,Thematic / training / SOP relevance.
+Q012,Torolalana fitantanana loharanon-drano,mg,medium,DOC_000001;DOC_000003;DOC_000005,DOC_000059;DOC_000074,Thematic / training / SOP relevance.
+Q013,Couverture en eau potable zones rurales,fr,hard,DOC_000001;DOC_000002;DOC_000003,DOC_000004;DOC_000005,Generic FR; multiple close-but-different candidates.
+Q014,Qualité de l’eau quartiers urbains,fr,hard,DOC_000001;DOC_000002;DOC_000003,DOC_000004;DOC_000005,Generic FR; multiple close-but-different candidates.
+Q015,Indicateurs WASH par région,fr,hard,DOC_000001;DOC_000002;DOC_000003,DOC_000004;DOC_000005,Generic FR; multiple close-but-different candidates.
+Q016,Rural water access coverage 2024,en,hard,DOC_000049;DOC_000050;DOC_000051,DOC_000027;DOC_000013,Extra query for coverage/quality/chlorination.
+Q017,Urban water quality hotspots,en,medium,DOC_000001;DOC_000003;DOC_000005,DOC_000046;DOC_000058,Extra query for coverage/quality/chlorination.
+Q018,Fomba fanaraha-maso ny kalitaon-drano,mg,hard,DOC_000001;DOC_000003;DOC_000005,DOC_000032;DOC_000013,Extra query for coverage/quality/chlorination.
+Q019,Tableau de bord lavage des mains,fr,easy,DOC_000057;DOC_000058;DOC_000059,DOC_000006;DOC_000066,Extra query for coverage/quality/chlorination.
+Q020,Training on chlorination workflows,en,hard,DOC_000077;DOC_000078;DOC_000079,DOC_000074;DOC_000001,Extra query for coverage/quality/chlorination.
+Q021,Fanofanana: fitsapana sisa klôro,mg,hard,DOC_000077;DOC_000078;DOC_000079,DOC_000055;DOC_000018,Extra query for coverage/quality/chlorination.
